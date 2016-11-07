@@ -9,3 +9,8 @@ libtool
 libusb/.deps
 libusb/Makefile
 stamp-h1
+libusb/.libs
+*.la
+*.o
+*.lo
+*.out
